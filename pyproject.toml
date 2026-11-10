@@ -9,7 +9,7 @@ description = "Small Python app for testing dependency impact analysis"
 requires-python = ">=3.10"
 dependencies = [
     "requests==2.28.0",
-    "pydantic==1.10.12",
+    "pydantic==2.6.0",
 ]
 
 [project.optional-dependencies]
